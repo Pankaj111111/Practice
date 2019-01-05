@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\games\PracticeWebApp1\PracticeWebApp1\bin\PracticeWebApp1.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\games\PracticeWebApp1\PracticeWebApp1\bin\PracticeWebApp1.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\games\PracticeWebApp1\PracticeWebApp1\bin\PracticeWebApp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\games\PracticeWebApp1\PracticeWebApp1\obj\Debug\PracticeWebApp1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\games\PracticeWebApp1\PracticeWebApp1\obj\Debug\PracticeWebApp1.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\games\PracticeWebApp1\PracticeWebApp1\obj\Debug\PracticeWebApp1.pdb
